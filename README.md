@@ -1,5 +1,5 @@
 # test-smartgit
 
 
-Primo commitd
+Primo commitd amico
 ciaociao
